@@ -1,6 +1,9 @@
-## Getting Started
+## Tenner Grid
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+AI program to generate and solve the game Tenner Grid by modelling
+it as constraint satisfaction problem. The program solve a randomly
+generated Tenner Grid Puzzle in Simple backtracking, Forward checking,
+Forward checking with MRV heuristic.
 
 ## Folder Structure
 
